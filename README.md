@@ -30,7 +30,7 @@ b=c
 print("Swapped values are:",a,b)
 ~~~
 ## OUTPUT::
-![output]![Alt text](swapvals.png)
+![Alt text](<Screenshot 2023-12-21 171950.png>)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
